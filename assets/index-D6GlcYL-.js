@@ -148,8 +148,6 @@ Error generating stack: `+i.message+`
     "Clash of Destiny is a strategic mobile game available at ",
     c.jsx("a", {
       href: "https://oz-wincasino.com",
-      target: "_blank",
-      rel: "noopener noreferrer",
       className: "text-blue-500 underline",
       children: "OZwin"
     }),
